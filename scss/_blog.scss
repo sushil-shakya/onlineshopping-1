@@ -1,0 +1,52 @@
+$text-heading: #555;
+$text-subheading: #222;
+$text-para: #777;
+$banner-bg: #f1f6f7;
+$banner-sub-bg: #384aeb;
+$btn-bg: #384aeb;
+
+.blog {
+	position: relative;
+	background-color: $banner-bg;
+	.blog-title {
+		p {
+			color: $text-heading;
+			text-transform: capitalize;
+		}
+		h2 {
+			color: $text-subheading;
+			text-transform: capitalize;
+			font-weight: 900;
+			font-size: 40px;
+			span {
+				border-bottom: 2px solid $banner-sub-bg;
+			}
+		}
+	}		
+}
+.card {
+	.card-body {
+		p {
+			color: $text-para;
+			text-transform: capitalize;
+		}
+		.card-title {
+			color: $text-subheading;
+			font-weight: 700;
+		}
+		.btn-custom {
+			color: #fff;
+			background-color: $btn-bg;
+			text-transform: capitalize;
+			border-radius: 50px;
+			display: inline-block;
+			padding: 5px 20px;
+		}
+		.btn-custom:hover {
+			color: #222;
+			background-color: transparent;
+			border: 1px solid $btn-bg ;
+			
+		}
+	}
+}

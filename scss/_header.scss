@@ -1,0 +1,42 @@
+$top-row-bg: #384aeb;
+$nav-bg: #fff;
+
+.top-row {
+	background-color: $top-row-bg;
+	padding: 4px 0;
+	ul {
+		margin: 0;
+		li {
+			display: inline-block;
+			padding: 0 3px;
+			a {
+				text-decoration: none;
+				color: #fff;
+				font-size: 14px;
+			}
+		}
+	}
+}
+// Navigation
+.bg-custom {
+	background-color: $nav-bg;
+}
+.select-sm {
+	width: 75px !important;
+}
+.badge {
+	font-size: 17px !important;
+	border-radius: 50px;
+}
+
+// MOBILE SCREEN
+@media(max-width: 480px) {
+	.top-row {
+		.text-left {
+			text-align: center !important;
+		}
+		.text-right {
+			display: none;
+		}
+	}
+}

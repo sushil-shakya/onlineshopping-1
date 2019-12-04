@@ -1,0 +1,137 @@
+$text-heading: #555;
+$text-subheading: #222;
+$text-para: #777;
+$banner-bg: #f1f6f7;
+$banner-sub-bg: #384aeb;
+$btn-bg: #384aeb;
+$filter-bar: #f1f6f7;
+
+.breadcrumb-banner {
+	background: url(../images/category-banner.jpg);
+	background-repeat: no-repeat;
+	height: 30vh;
+	background-size: cover;
+	background-position: bottom;
+	background-color: rgba(0,0,0,0.5);
+	background-blend-mode: multiply;
+	position: relative;
+	.breadcrumb-text {
+		height: 30vh;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		h1 {
+			color: #fff;
+			font-size: 50px;
+			font-weight: 700;
+			padding-top: 50px;
+		}
+		.breadcrumb {
+			background: transparent;
+			.breadcrumb-item {
+				a {
+					color: $banner-sub-bg;
+				}
+			}
+			.active {
+				color: #fff;
+			}	
+		}	
+	}	
+}
+.filter-bar {
+	background-color: $filter-bar;
+	padding: 8px 5px;
+}
+.single-product-box {
+	.product-img {
+		width: 255px;
+		height: 100%;
+		display: block;
+		overflow: hidden;
+		position: relative;
+	}
+	.add-cart {
+		position: absolute;
+		bottom: -30px;
+		left: 50%;
+		transform: translateX(-50%);
+		transition: .4s;
+		a {
+			i {
+				padding: 0 7px;
+				font-size: 23px;
+			}
+		}
+	}
+	.product-img:hover .add-cart {
+		bottom: 20px;
+		z-index: 9;
+	}
+	.product-img:hover .bg {
+		background-color: rgba(0,0,0,0.5);
+		position: absolute;
+		top: 0;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		transition: 0.8s;
+	}
+	.product-detail {
+		p {
+			text-transform: capitalize;
+			color: $text-heading;
+		}
+		p:last-child {
+			font-weight: 700;
+		}
+		h4 {
+			text-transform: capitalize;
+			color: $text-subheading;
+			font-weight: 900;
+		}
+	}	
+}
+.top-product {
+	.top-product-title {
+		p {
+			color: $text-heading;
+			text-transform: capitalize;
+		}
+		h2 {
+			color: $text-subheading;
+			text-transform: capitalize;
+			font-weight: 900;
+			font-size: 40px;
+			span {
+				border-bottom: 2px solid $banner-sub-bg;
+			}
+		}
+	}
+}
+.list-unstyled {
+	border: 1px solid rgba(0,0,0,0.125);
+	padding: 8px 5px;
+	.media {
+		.media-body {
+			h5 {
+				color: $text-subheading;
+				font-size: 18px;
+				&:hover {
+					color: $banner-sub-bg;
+				}
+			}
+			p {
+				color: $text-para;
+			}
+		}
+	}
+}
+
+// MOBILE VIEW
+@media(max-width: 480px) {
+	.product-img {
+		width: 100% !important;
+	}
+}

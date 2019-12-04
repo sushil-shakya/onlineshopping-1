@@ -1,0 +1,909 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"tab",
+				"tabs-4"
+			],
+			[
+				"wor",
+				"word-spacing\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"mt",
+				"mt-4"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"img",
+				"img-fluid"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"coor",
+				"color\tproperty"
+			],
+			[
+				"btn",
+				"btnBg"
+			],
+			[
+				"nv",
+				"navBgColor"
+			],
+			[
+				"d",
+				"disc\tlist-style-type"
+			],
+			[
+				"u",
+				"url()\tlist-style"
+			],
+			[
+				"border",
+				"searchBorder"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"Z",
+				"z-index\tproperty"
+			],
+			[
+				"bgco",
+				"background-color\tproperty"
+			],
+			[
+				"j",
+				"justify-content-end"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"over",
+				"overflow-x\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"o",
+				"outline\tproperty"
+			],
+			[
+				"n",
+				"hidden\tborder-right"
+			],
+			[
+				"add",
+				"addBgColor"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"fl",
+				"flex-start\tjustify-content"
+			],
+			[
+				"r",
+				"rgba()\tcolor"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"s",
+				"stick-navbar"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"owl",
+				"owl-carousel"
+			],
+			[
+				"fonsty",
+				"font-style\tproperty"
+			],
+			[
+				"borco",
+				"border-color\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"padi",
+				"padding-top\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"fontst",
+				"font-style\tproperty"
+			],
+			[
+				"trasfo",
+				"transform\tproperty"
+			],
+			[
+				"transo",
+				"transform\tproperty"
+			],
+			[
+				"m",
+				"menu-close"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"fots",
+				"font-style\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"f",
+				"f8c12c"
+			],
+			[
+				"sub",
+				"subscribe"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"cha",
+				"changeBar"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"typ",
+				"typewrite"
+			],
+			[
+				"trafor",
+				"transform\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"a",
+				"addClass"
+			],
+			[
+				"tt",
+				"translateY()\ttransform"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"lie",
+				"line-height\tproperty"
+			],
+			[
+				"mrgi",
+				"margin\tproperty"
+			],
+			[
+				"hav",
+				"have_posts\tWP Function"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"customize",
+				"customize_register\tWP Action Name"
+			],
+			[
+				"get_template_",
+				"get_template_directory\tWP Function"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"img-",
+				"img-responsive"
+			],
+			[
+				"gr",
+				"grid-column\tproperty"
+			],
+			[
+				"grid-rwo",
+				"grid-row-start\tproperty"
+			],
+			[
+				"fon",
+				"fontSize"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"ord",
+				"order\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ce",
+				"capitalize\ttext-transform"
+			],
+			[
+				"let",
+				"left\tproperty"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"spa",
+				"space-around\tjustify-content"
+			],
+			[
+				"spac",
+				"space-between\tjustify-content"
+			],
+			[
+				"txa",
+				"text-align\tproperty"
+			],
+			[
+				"fla",
+				"float\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"borderr",
+				"border-right\tproperty"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"grid",
+				"grid-column\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"gridtem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"bordrco",
+				"border-color\tproperty"
+			],
+			[
+				"paddio",
+				"padding-bottom\tproperty"
+			],
+			[
+				"impor",
+				"important"
+			],
+			[
+				"to",
+				"text-top\tvertical-align"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"ro",
+				"rotate()\ttransform"
+			],
+			[
+				"bgpo",
+				"background-position\tproperty"
+			],
+			[
+				"backc",
+				"background-color\tproperty"
+			],
+			[
+				"bcs",
+				"background-size\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"su",
+				"sub-theme-color"
+			],
+			[
+				"anima",
+				"animation-duration\tproperty"
+			],
+			[
+				"animatio",
+				"animation-name\tproperty"
+			],
+			[
+				"ti",
+				"perspective()\ttransform"
+			],
+			[
+				"animation",
+				"animation-direction\tproperty"
+			],
+			[
+				"baccl",
+				"background-color\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"fsi",
+				"font-size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"add r",
+				"Package Control: Add Repository"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"scss c",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"Package Control: list packages",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: s",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"WordPress Codex: Open Function Reference"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/business/scss/_about.scss",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/business/scss/style.scss",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/business/scss/_navigation.scss",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/business/scss/_banner.scss",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/business/js/main.js",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/business/css/style.css",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/technology/css/style.css",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/onlineshopping/scss/_trending.scss",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/onlineshopping/js/main.js",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/onlineshopping/scss/style.scss",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/onlineshopping/index.html",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/onlineshopping/scss/_header.scss",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/onlineshopping/scss/_parallax-ad.scss",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/onlineshopping/scss/_subscribe.scss",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/onlineshopping/scss/_footer.scss",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/onlineshopping/scss/_best-seller.scss",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/onlineshopping/scss/_banner.scss",
+		"/Users/sushil/Desktop/WebDesignClass/test.html",
+		"/Users/sushil/Desktop/WebDesignClass/all-form-types.html",
+		"/Users/sushil/Desktop/FrontEnd-Final-Projects/onlineshopping/css/bootstrap.min.css",
+		"/Users/sushil/Desktop/newbiz/scss/_banner.scss",
+		"/Users/sushil/Desktop/newbiz/scss/_navigation.scss",
+		"/Users/sushil/Desktop/newbiz/scss/style.scss",
+		"/Users/sushil/Desktop/9/scss/style.scss",
+		"/Users/sushil/Desktop/9/scss/_main.scss",
+		"/Users/sushil/Desktop/9/scss/_contact.scss",
+		"/Users/sushil/Desktop/9/scss/_banner.scss",
+		"/Users/sushil/Desktop/9/scss/_navigation.scss",
+		"/Users/sushil/Desktop/9/scss/_top.scss",
+		"/Users/sushil/Desktop/9/css/hover.css",
+		"/Users/sushil/Desktop/9/css/style.css",
+		"/Users/sushil/Desktop/9/js/main.js",
+		"/Users/sushil/Downloads/DiagonalSlideshow-master/css/base.css",
+		"/Users/sushil/Downloads/DiagonalSlideshow-master/js/charming.min.js",
+		"/Users/sushil/Downloads/DiagonalSlideshow-master/js/imagesloaded.pkgd.min.js",
+		"/Users/sushil/Downloads/DiagonalSlideshow-master/js/demo.js",
+		"/Users/sushil/Desktop/broadway-infosys-bt-4/js/jquery-3.4.1.min.js",
+		"/Users/sushil/Downloads/popper js/popper.min.js",
+		"/Users/sushil/Downloads/popper js/popper.js",
+		"/Users/sushil/Desktop/bootstrap-4-broadway-site/js/custom.js",
+		"/Users/sushil/Desktop/BootstrapClassWork/js/main.js",
+		"/Users/sushil/Desktop/bootstrap-4-broadway-site/css/style.css",
+		"/Users/sushil/Desktop/Bootstrap-4-Practise/js/custom.js",
+		"/Users/sushil/Desktop/Bootstrap-4-Practise/css/style.css",
+		"/Users/sushil/Desktop/FrontEndProjects/LawFirm/firm-1/css/style.css",
+		"/Users/sushil/Desktop/BootstrapHomePractice/index.html",
+		"/Users/sushil/Desktop/BootstrapHomePractice/css/style.css",
+		"/Users/sushil/Desktop/WebDesignClass/jquery-scorllbar.html",
+		"/Users/sushil/Desktop/BootstrapPractice 2/css/style.css",
+		"/Users/sushil/Desktop/BootstrapPractice/js/jquery-3.4.1.min.js",
+		"/Users/sushil/Desktop/BootstrapPractice/images",
+		"/Users/sushil/Desktop/BootstrapPractice/css/style.css",
+		"/Users/sushil/Desktop/btClass 2/css/style.css",
+		"/Users/sushil/Desktop/btClass 2/style.css",
+		"/Users/sushil/Desktop/WebDesignClass/jquery-accordion.html",
+		"/Users/sushil/Desktop/WebDesignClass/jquery.tab.html",
+		"/Users/sushil/Desktop/FrontEndProjects/LawFirm/firm-1/js/main.js",
+		"/Users/sushil/Desktop/jquery.owl.carousel.html",
+		"/Users/sushil/Desktop/FrontEndProjects/LawFirm/firm-1/css/animate.min.css",
+		"/Users/sushil/Desktop/FrontEndProjects/ConstructionPlants/construction-one/js/main.js",
+		"/Users/sushil/Desktop/FrontEndProjects/ConstructionPlants/construction-one/css/style.css",
+		"/Users/sushil/Desktop/FrontEndProjects/ConstructionPlants/construction-one/css/responsive.css",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/myPage-mFirst/js/script.js",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/myPage-mFirst/css/responsive.css",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/myPage1/index.html",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/myPage1/css/responsive.css",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/myPage1/js/script.js",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/myPage1/css/style.css",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/my-webpag-1/css/responsive.css",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/my-webpag-1/js/script.js",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/my-webpag-1/css/style.css",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/personal-portfolio-2/js/script.js",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/personal-portfolio-2/css/responsive.css",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/personal-portfolio-2/css/style.css",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/personal-portfolio-1/index.html",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/personal-portfolio-2/index.html",
+		"/Users/sushil/Desktop/coding.jpg",
+		"/Users/sushil/Desktop/WebDesignClass/jquery.html",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/personal-portfolio-1/js/script.js",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/personal-portfolio-1/css/responsive.css",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/mypage/portfolio.html",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/mypage/about.html",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/mypage/index.html",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/mypage/css/style.css",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/mypage/css/responsive.css",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/mypage/js/script.js",
+		"/Users/sushil/Desktop/jquery.tab.html",
+		"/Users/sushil/Desktop/FrontEndProjects/Ecommerces/fashion-1/js/main.js",
+		"/Users/sushil/Desktop/WebDesignClass/bars-1.html",
+		"/Users/sushil/Desktop/FrontEndProjects/Ecommerces/fashion-1/index.html",
+		"/Users/sushil/Desktop/FrontEndProjects/Ecommerces/fashion-1/css/style.css",
+		"/Users/sushil/Desktop/FrontEndProjects/Ecommerces/fashion-1/css/responsive.css",
+		"/Users/sushil/Desktop/jquery-scorllbar.html",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/personal-1/css/responsive.css",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/personal-1/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/wooshopping/wp-content/themes/wooshopping/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/wooshopping/wp-content/themes/wooshopping/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wooshopping/wp-content/themes/twentynineteen/woocommerce.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wooshopping/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fashion/wp-content/themes/fashion/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/fashion/wp-content/themes/fashion/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fashion/wp-content/themes/fashion/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fashion/wp-content/themes/fashion/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/fashion/wp-content/themes/fashion/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/fashion/wp-config.php",
+		"/Users/sushil/Desktop/FrontEndProjects/Insurance/css/responsive.css",
+		"/Users/sushil/Desktop/FrontEndProjects/Insurance/css/style.css",
+		"/Users/sushil/Desktop/testing.html",
+		"/Users/sushil/Desktop/jquery.html",
+		"/Users/sushil/Desktop/bars-1.html",
+		"/Users/sushil/Desktop/bars.html",
+		"/Users/sushil/Desktop/images.html",
+		"/Users/sushil/Desktop/javascript-4.html",
+		"/Users/sushil/Desktop/date.html",
+		"/Users/sushil/Desktop/javascript-1.html",
+		"/Users/sushil/Desktop/javascript-5.html",
+		"/Users/sushil/Desktop/FrontEndProjects/Ecommerces/fashion-1/css/custom.hover.css",
+		"/Users/sushil/Desktop/FrontEndProjects/Ecommerces/fashion-1/images/banner-1.jpg",
+		"/Users/sushil/Desktop/flex-1.html",
+		"/Users/sushil/Desktop/responsive-1.html",
+		"/Users/sushil/Desktop/responsive.html",
+		"/Users/sushil/Desktop/FrontEndProjects/Restaurent/ipsa-restaurent-1/css/mobile.css",
+		"/Users/sushil/Desktop/FrontEndProjects/Restaurent/ipsa-restaurent-1/css/style.css",
+		"/Users/sushil/Desktop/max-width.html",
+		"/Users/sushil/Desktop/min.html",
+		"/Users/sushil/Desktop/pattren-img.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/personal/wp-config.php",
+		"/Users/sushil/Desktop/FrontEndProjects/personal/index.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 37.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

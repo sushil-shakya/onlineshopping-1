@@ -1,0 +1,46 @@
+$text-heading: #555;
+$text-subheading: #222;
+$text-para: #777;
+$banner-bg: #f1f6f7;
+$banner-sub-bg: #384aeb;
+$btn-bg: #384aeb;
+
+.parallax-ad {
+	position: relative;
+	background: url(../images/parallax-bg.png);
+	background-repeat: no-repeat;
+	min-height: 60vh;
+	
+	.parallax-text {
+		padding: 100px 0;
+		h3 {
+			color: $text-subheading;
+			font-size: 50px;
+			font-weight: 400;
+			text-transform: capitalize;
+		}
+		h4 {
+			color: $text-subheading;
+			font-size: 30px;
+			font-weight: 400;
+			text-transform: capitalize;
+		}
+		p{
+			color: $text-para;
+		}
+		.btn-custom {
+			color: #fff;
+			background-color: $btn-bg;
+			text-transform: capitalize;
+			border-radius: 50px;
+			display: inline-block;
+			padding: 5px 20px;
+		}
+		.btn-custom:hover {
+			color: #222;
+			background-color: transparent;
+			border: 1px solid $btn-bg ;
+			
+		}
+	}
+}

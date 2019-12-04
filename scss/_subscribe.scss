@@ -1,0 +1,83 @@
+$text-heading: #555;
+$text-subheading: #222;
+$text-para: #777;
+$banner-bg: #f1f6f7;
+$banner-sub-bg: #384aeb;
+$btn-bg: #384aeb;
+
+.subscribe {
+	position: relative;
+	background-image: url(../images/worldmap.jpg);
+	background-repeat: no-repeat;
+	height: 50vh;
+	background-size: cover;
+	background-color: rgba(0,0,85,0.8);
+	background-blend-mode: multiply;
+	
+
+	
+	.subscribe-text {
+		padding: 100px 0;
+		h1 {
+			color: /*$text-subheading*/#fff;
+			font-size: 50px;
+			font-weight: 400;
+			text-transform: capitalize;
+		}
+		p{
+			color: /*$text-para*/#fff;
+		}	
+	}
+	.form-inline {
+		justify-content: center;
+		margin-top: -85px;
+	}
+	.btn-custom {
+		color: #fff;
+		background-color: $btn-bg;
+		text-transform: capitalize;
+		border-radius: 50px;
+		display: inline-block;
+		padding: 5px 20px;
+	}
+	.btn-custom:hover {
+		color: #222;
+	}
+}
+// MOBILE VIEW
+@media(min-width: 360px) and (max-width: 480px) {
+	.subscribe {
+		position: relative;
+		background-image: url(../images/worldmap.jpg);
+		background-repeat: no-repeat;
+		height: 70vh;
+		background-size: cover;
+		background-color: rgba(0,0,85,0.8);
+		background-blend-mode: multiply;
+
+		
+		.subscribe-text {
+			padding: 100px 0;
+			h1 {
+				color: /*$text-subheading*/#fff;
+				font-size: 50px;
+				font-weight: 400;
+				text-transform: capitalize;
+			}
+			p{
+				color: /*$text-para*/#fff;
+			}	
+		}
+		.btn-custom {
+			color: #fff;
+			background-color: $btn-bg;
+			text-transform: capitalize;
+			border-radius: 50px;
+			display: inline-block;
+			padding: 5px 20px;
+		}
+		.btn-custom:hover {
+			color: #222;
+		}
+	}
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700,900&display=swap');
+$text-heading: #555;
+$text-subheading: #222;
+$text-para: #777;
+$banner-bg: #f1f6f7;
+$banner-sub-bg: #384aeb;
+$btn-bg: #384aeb;
+
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+}
+ul {
+	list-style: none;
+}
+@import 'header';
+@import 'banner';
+@import 'trending';
+@import 'parallax-ad';
+@import 'best-seller';
+@import 'blog';
+@import 'subscribe';
+@import 'footer';
+// Shop Page-->Shop Category
+@import 'shop-category';
